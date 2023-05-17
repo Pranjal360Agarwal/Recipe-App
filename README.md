@@ -30,3 +30,10 @@ The recipe app offers the following features:
 
 • It has various categories from:- main course, side dish, dessert, appetizer, salad, bread, breakfast, soup, beverage, sauce, finger food, snack, drink etc.
 
+
+# Developers
+
+• Pranjal Agarwal - 211B218
+• Panshul Khurchwal - 211B202
+• Naveen Paudal - 211B191
+
