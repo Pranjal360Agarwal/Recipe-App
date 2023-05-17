@@ -11,8 +11,22 @@ To install the app, follow these steps:
 
 1. Clone the repository by running the following command:
 
-   clone https://github.com/your-username/recipe-app.git 
+   git clone https://github.com/your-username/recipe-app.git 
 
 2. Open the project in Android Studio.
 
 3. Build and run the app on an Android device or emulator.
+
+
+# Features
+
+The recipe app offers the following features:
+
+• Browse Recipes: Users can view a collection of recipes with images and descriptions.
+
+• Search Recipes: Users can search for recipes based on keywords or ingredients.
+
+• User can create account and it already exists, he/she can log in with the existing account.
+
+• It has various categories from:- main course, side dish, dessert, appetizer, salad, bread, breakfast, soup, beverage, sauce, finger food, snack, drink etc.
+
