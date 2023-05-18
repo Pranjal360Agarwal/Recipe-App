@@ -35,5 +35,5 @@ The recipe app offers the following features:
 
 • Pranjal Agarwal - 211B218
 • Panshul Khurchwal - 211B202
-• Naveen Paudal - 211B191
+• Naveen Paudal - 211B192
 
